@@ -17,3 +17,10 @@
 # ❗ Is it safe?
 - 1.Yes Of course its safe to use. But Selfbots are against Discord Terms so your account can be banned. If your account gets banned we are not responsible for it. so use it in your risk
 - 2.And dont worry if you'r using it,it have no grabber/logger into this code. We dont grab people we only grad the bitches.
+# 👤 How to Contact me?
+- 1.Whatsapp : 01937770639 My number (BDT +088)
+- 2.Discord : lowm1cer my Discord Username
+- 3.Instagram : @wtfphonix_ my Instagram Username
+# 🆘️ Need Help?
+- 1.Join discord.gg/rascals
+- 3.Contact me ! Iam available 24/7
