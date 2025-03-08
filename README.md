@@ -6,7 +6,7 @@
 <p><img align="center" src="https://cdn.discordapp.com/attachments/1275808575759061042/1347937847419867316/XRecorder_Edited_20250308_02.jpg?ex=67cda472&is=67cc52f2&hm=8af2fda747be52240171e4e99e83040e7ce128956f4d5864476cae1eeebf7e49&" alt="wtfphonix" /></p>
 
 # 🛠 How to Use? 
-- 1.Git Clone 
+- 1.Git Clone https://github.com/wtfphonix/-RASCALS-MULTITOKEN-SELFBOT.git
 - 2. Download modules. (pip install -r req.txt) in your terminal
 - 3.Make sure you have downloded discord.py=1.7.3
 - 4.Python3/Python Main.py
